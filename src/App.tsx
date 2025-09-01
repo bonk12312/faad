@@ -103,7 +103,7 @@ function App() {
         
         <button
           onClick={() => setShowStory(true)}
-          className="bg-white text-black hover:bg-gray-200 px-4 py-2 transition-all duration-300 text-xs uppercase tracking-wider transform rotate-2 hover:rotate-0"
+         className="border-2 border-white text-white hover:bg-white hover:text-black px-6 py-3 transition-all duration-300 text-sm uppercase tracking-wider backdrop-blur-sm bg-white/10 hover:bg-white transform hover:scale-105"
         >
           Learn More About Dishwashers
         </button>
